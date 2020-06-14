@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Haowen Luo's CV
 ---
 # Isaac Newton
 Physicist, Mathematician, Cambridge professor.
